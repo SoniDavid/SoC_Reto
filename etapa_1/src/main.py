@@ -51,7 +51,7 @@ try:
         ang_vel = round(random.uniform(0, 5.0), 2)
         radius = round(random.uniform(0.2, 0.5), 3)  
         transmission = TRANSMISSION_REL
-        current_time = time.time() - start_time
+        current_time = round(time.time() - start_time, 2)
         rpm = calc_rpm(ang_vel, radius, transmission)
         
         # CSV data apend
