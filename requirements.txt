@@ -8,11 +8,10 @@ packaging==24.2
 paho-mqtt==2.1.0
 pandas==2.2.3
 pillow==11.1.0
-pygame==2.6.1
 pyparsing==3.2.3
-PySimpleGUI==5.0.8.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
 random2==1.0.2
 six==1.17.0
 tzdata==2025.2
+datetime
