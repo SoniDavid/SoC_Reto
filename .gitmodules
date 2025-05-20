@@ -1,6 +1,6 @@
 [submodule "SoC_Reto_STM"]
 	path = SoC_Reto_STM
-	url = https://github.com/SoniDavid/SoC_Reto_STM
+	url = https://github.com/SoniDavid/SoC_Reto_STM.git
 [submodule "SoC_Reto_ESP"]
 	path = SoC_Reto_ESP
 	url = https://github.com/SoniDavid/SoC_Reto_ESP
