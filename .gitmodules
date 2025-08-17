@@ -1,0 +1,9 @@
+[submodule "SoC_Reto_STM"]
+	path = SoC_Reto_STM
+	url = https://github.com/SoniDavid/SoC_Reto_STM.git
+[submodule "SoC_Reto_ESP"]
+	path = SoC_Reto_ESP
+	url = https://github.com/SoniDavid/SoC_Reto_ESP.git
+[submodule "SoC_Reto_RaspPi"]
+	path = SoC_Reto_RaspPi
+	url = https://github.com/SoniDavid/SoC_Reto_RaspPi.git
